@@ -1,17 +1,26 @@
-# Astray
+# Mini Astray
 
-A WebGL maze game built with Three.js and Box2dWeb. Play it here: http://wwwtyro.github.com/Astray/
+### Cài đặt môi trường Python:
 
-### Launching
+1. Vào link: https://www.python.org/downloads/ 
+2. Chọn Download Python 3.x hoặc 2.x
+3. Cài đặt Python:
+	- Nhấn chọn "Install now"
+	- Chọn "Add Python 2.x (3.x) to the PATH"
+	- Chờ đợi cài đặt.
+4. Kiểm tra version Python hiện tại:
+	- Ctrl + R, gõ lệnh "cmd".
+	- Gõ lệnh "python --version"
 
-There are several ways to launch the game. Here is the simplest:
+### Tải game:
 
-1. Clone or download the repository
-2. Navigate to Astray's directory
-3. Start 'python -m SimpleHTTPServer' in your shell (for python 3.0 and above type 'python -m http.server' in your shell)
-4. Open 'localhost:8000' in your browser
-5. Enjoy!
+1. Clone game qua link : https://github.com/wwwtyro/Astray.git
+2. Mở cmd, điều hướng đến thư mục đã lưu game.
+3. Nếu bạn đang sử dụng version python 2.x, gõ câu lệnh : “python -m SimpleHTTPServer”
+	Nếu là version Python 3.x, gõ câu lệnh: “python -m http.server”
+4. Bật trình duyệt, gõ : “localhost:8000”
+5. Tận hưởng trò chơi.
 
-### License
 
-I don't believe in them. You can order your bits however you please.
+### Cách chơi:
+Sử dụng các phím ←↑→↓ để đưa banh ra khỏi mê cung.
